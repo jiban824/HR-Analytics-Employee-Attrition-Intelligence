@@ -478,3 +478,25 @@ Developed as an end-to-end Data Analytics portfolio project to demonstrate pract
 ⭐ If you find this project useful, feel free to star the repository!
 
 **Technologies:** Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | SQLite | Power BI | DAX
+
+
+---
+
+## 📊 Power BI Dashboard Visualizations
+
+This project includes four interactive dashboard analysis pages built using Power BI.
+
+### 1. Executive Overview Dashboard
+![Executive Overview](Images/Executive%20Overview%20analysis%20dashboard.png)
+
+### 2. Employee Demographics Dashboard
+![Employee Demographics](Images/Employee%20Demographics%20Dashboard.png)
+
+### 3. Department & Job Role Analysis
+![Department and Job Role Analysis](Images/Department%20%26%20Job%20role%20Analysis%20dashboard.png)
+
+### 4. Work Experience & Retention Analysis
+![Work Experience and Retention](Images/Work%20experience%20%26%20Retention%20analysis%20dashboard.png)
+
+---
+
